@@ -80,12 +80,17 @@
   <li>определить другие особенности взаимодействия с клиентами</li>
 </ul>
 <hr>
-10. <a href="https://github.com/kolevatov/Yandex-Data-Analysis/blob/main/%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_ab_%D1%82%D0%B5%D1%81%D1%82%D0%B0.ipynb" target="blank" rel="noreferrer">Финальный проект. A/B тест. Проверка результатов теста</a>
+10. <a href="https://github.com/kolevatov/Yandex-Data-Analysis/blob/main/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0_%D1%87%D1%82%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3_%D0%BF%D0%BE_%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B5.ipynb" target="blank" rel="noreferrer">SQL. Анализ базы данных сервиса для чтения книг по подписке</a>
+
+**Задача:**
+Проанализировать базу данных сервиса для чтения книг по подписке - информацию о книгах, издательствах, авторах, а также пользовательские обзоры книг. Эти данные помогут сформулировать ценностное предложение для нового продукта.
+<hr>
+11. <a href="https://github.com/kolevatov/Yandex-Data-Analysis/blob/main/%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_ab_%D1%82%D0%B5%D1%81%D1%82%D0%B0.ipynb" target="blank" rel="noreferrer">Финальный проект. A/B тест. Проверка результатов теста</a>
 
 **Задача:**
 Оценить корректность проведения теста включая время проведения теста и аудиторию теста. Провести анализ результатов теста.
 <hr>
-11. <a href="https://github.com/kolevatov/Yandex-Data-Analysis/blob/main/%D0%B2%D1%8B%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B5%D0%B9_%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_ecomm.ipynb" target="blank" rel="noreferrer">Финальный проект. E-commerce — Выявление профилей потребления</a>
+12. <a href="https://github.com/kolevatov/Yandex-Data-Analysis/blob/main/%D0%B2%D1%8B%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B5%D0%B9_%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_ecomm.ipynb" target="blank" rel="noreferrer">Финальный проект. E-commerce — Выявление профилей потребления</a>
 
 **Задача:**
 TODO
